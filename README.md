@@ -36,9 +36,7 @@ Classification | What classification category did the lifter achieve |
 Federation | What federation did this competition take place in |
 Date Refreshed | Last refresh date of the data |
 
-
-
-
 ## Analysis
-
+The overall audience I wanted my analysis to cater to was for powerlifting fanatics/enthusiasts and for the powerlifting federation officials/staff members. In my Tableau dashboard, there are several tabs that serve different purposes:
+1. Summary Dashboard: Used to show basic summary statistics such as total number of competitions, total number of lifters, total number of cities etc. Shows various graphs that highlight distributions of different features.
 ## Future Work
