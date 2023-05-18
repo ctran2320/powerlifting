@@ -6,7 +6,6 @@ Implement webscraping via Python's BeautifulSoup & Request libraries to generate
 
 ## Data
 Dvision| Details the Division the Lifter competed in. | 
---- | --- | 
 Lifter Name| The competitors first and last name |
 Place | What place did the lifter achieve
 
